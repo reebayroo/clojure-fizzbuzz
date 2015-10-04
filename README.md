@@ -1,15 +1,10 @@
 # fizzbuzz
 
-A Clojure library designed to ... well, that part is up to you.
+A fizzbuzz exercise using recursion and unit testing with expect
 
 ## Usage
+
 install lein
 
 lein autoexpect
 
-# License
-
-Copyright © 2015 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
