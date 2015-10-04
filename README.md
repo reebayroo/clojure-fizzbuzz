@@ -3,10 +3,11 @@
 A Clojure library designed to ... well, that part is up to you.
 
 ## Usage
+install lein
 
-FIXME
+lein autoexpect
 
-## License
+# License
 
 Copyright © 2015 FIXME
 
